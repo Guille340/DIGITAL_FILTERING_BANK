@@ -1,0 +1,11 @@
+ANSI (2004). "ANSI S1.11-2004: Specification for Octave, Half-Octave, and Third 
+   Octave Band Filter Sets", American National Standard Institute. Standard 
+   reaffirmed on Jun 2009.
+
+BSI (2014). "BS EN 61260-1:2014. Electroacoustics - Octave-band and fractional-
+   octave-band filters. Part 1: Specifications", British Standards Institute.
+   [Identical to IEC 61260-1:2014]
+
+
+
+
